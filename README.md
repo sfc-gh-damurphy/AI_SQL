@@ -1,6 +1,4 @@
-The following is a conversion of the provided document to Markdown format, suitable for a GitLab README file.
 
-````markdown
 # AI SQL: HOL Setup
 
 [cite_start]This lab introduces a new era for SQL analytics, bridging the gap between analysts and AI engineer capabilities[cite: 3]. [cite_start]By leveraging SQL with AI-powered operators in Snowflake, analysts can easily access and analyze multimodal data at scale[cite: 4]. [cite_start]The solution combines simple SQL syntax with high-performance processing at a lower cost, delivering trusted insights across the enterprise[cite: 5].
