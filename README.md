@@ -124,7 +124,9 @@ GRANT USAGE ON FUNCTION util_db.public.se_grader(varchar,boolean,integer,integer
 
 ## Step 2: Download Files for the Lab and Upload Them to the Stage
 
-1.  Download the ZIP files for both parts of the lab: `EquityResearch.zip` and `Restaurant.zip`.
+1.  Go to the repository folder for each sections, you can choose to download a zip or download the files individually:
+* [Equity Research](/Equity%20Research)
+* [Resturant](/Restaurant)
 2.  Create Snowflake Stages. Remember to choose server-side encryption for your stage, or follow the code below.
 3.  Unzip the files on your machine into separate folders for each lab.
 4.  Upload them to the stage or import them through the Snowsight UI.
